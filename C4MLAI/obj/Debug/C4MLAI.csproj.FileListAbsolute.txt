@@ -1,0 +1,7 @@
+C:\Code\C4MLAI\C4MLAI\bin\Debug\C4MLAI.exe.config
+C:\Code\C4MLAI\C4MLAI\bin\Debug\C4MLAI.exe
+C:\Code\C4MLAI\C4MLAI\bin\Debug\C4MLAI.pdb
+C:\Code\C4MLAI\C4MLAI\obj\Debug\C4MLAI.csprojResolveAssemblyReference.cache
+C:\Code\C4MLAI\C4MLAI\obj\Debug\C4MLAI.csproj.CoreCompileInputs.cache
+C:\Code\C4MLAI\C4MLAI\obj\Debug\C4MLAI.exe
+C:\Code\C4MLAI\C4MLAI\obj\Debug\C4MLAI.pdb
